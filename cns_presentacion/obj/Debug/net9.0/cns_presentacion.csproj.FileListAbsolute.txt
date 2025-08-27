@@ -1,0 +1,15 @@
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\bin\Debug\net9.0\cns_presentacion.exe
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\bin\Debug\net9.0\cns_presentacion.deps.json
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\bin\Debug\net9.0\cns_presentacion.runtimeconfig.json
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\bin\Debug\net9.0\cns_presentacion.dll
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\bin\Debug\net9.0\cns_presentacion.pdb
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.AssemblyInfo.cs
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.sourcelink.json
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.dll
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\refint\cns_presentacion.dll
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.pdb
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\cns_presentacion.genruntimeconfig.cache
+C:\Users\Usuario\Intento_Parcial\cns_presentacion\obj\Debug\net9.0\ref\cns_presentacion.dll
